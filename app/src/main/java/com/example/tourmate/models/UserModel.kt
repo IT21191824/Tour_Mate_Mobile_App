@@ -1,4 +1,4 @@
-package com.example.eyetravel.models
+package com.example.tourmate.models
 
 data class UserModel (
     var userId: String? = null,

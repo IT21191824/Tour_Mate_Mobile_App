@@ -1,4 +1,4 @@
-package com.example.eyetravel.reglog
+package com.example.tourmate.reglog
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

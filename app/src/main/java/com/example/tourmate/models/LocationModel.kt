@@ -1,4 +1,4 @@
-package com.example.eyetravel.models
+package com.example.tourmate.models
 
 data class LocationModel (
     var locationId: String? = null,

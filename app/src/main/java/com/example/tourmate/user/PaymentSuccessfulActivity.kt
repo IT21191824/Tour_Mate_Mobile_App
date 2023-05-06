@@ -1,4 +1,4 @@
-package com.example.eyetravel.user
+package com.example.tourmate.user
 import android.content.ClipData
 import android.content.ClipboardManager
 import android.content.Context

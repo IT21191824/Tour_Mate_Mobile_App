@@ -1,4 +1,4 @@
-package com.example.eyetravel
+package com.example.tourmate
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

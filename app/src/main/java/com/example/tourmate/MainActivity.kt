@@ -1,4 +1,4 @@
-package com.example.eyetravel
+package com.example.tourmate
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
