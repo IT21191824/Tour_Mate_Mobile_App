@@ -1,16 +1,11 @@
 package com.example.tourmate.user
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.widget.Button
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.eyetravel.R
-import com.example.eyetravel.admin.AddGuideActivity
-import com.example.eyetravel.admin.AdminGuideAdapter
-import com.example.eyetravel.models.GuideModel
+import com.example.tourmate.models.GuideModel
 import com.google.firebase.database.*
 
 class UserGuidesActivity : AppCompatActivity() {

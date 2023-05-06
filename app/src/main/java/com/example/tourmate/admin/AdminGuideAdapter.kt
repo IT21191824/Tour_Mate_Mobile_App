@@ -1,7 +1,6 @@
-package com.example.eyetravel.admin
+package com.example.tourmate.admin
 
 import android.content.Intent
-import android.content.Intent.getIntent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -9,9 +8,8 @@ import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.eyetravel.R
-import com.example.eyetravel.models.GuideModel
-import com.example.eyetravel.models.LocationModel
+import com.example.tourmate.R
+import com.example.tourmate.models.GuideModel
 import com.google.firebase.database.FirebaseDatabase
 import com.squareup.picasso.Picasso
 

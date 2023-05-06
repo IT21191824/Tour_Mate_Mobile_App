@@ -9,7 +9,7 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Button
 import android.widget.Toast
-import com.example.eyetravel.R
+import com.example.tourmate.R
 
 class PaymentSuccessfulActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

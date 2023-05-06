@@ -6,10 +6,8 @@ import android.os.Bundle
 import android.text.Editable
 import android.widget.Button
 import android.widget.EditText
-import android.widget.TextView
-import com.example.eyetravel.R
-import com.example.eyetravel.models.CardModel
-import com.example.eyetravel.models.PaymentModel
+import com.example.tourmate.R
+import com.example.tourmate.models.CardModel
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 

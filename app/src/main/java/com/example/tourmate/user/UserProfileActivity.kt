@@ -9,9 +9,9 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
-import com.example.eyetravel.MainActivity
-import com.example.eyetravel.R
-import com.example.eyetravel.models.UserModel
+import com.example.tourmate.MainActivity
+import com.example.tourmate.R
+import com.example.tourmate.models.UserModel
 import com.google.firebase.database.*
 
 class UserProfileActivity : AppCompatActivity() {

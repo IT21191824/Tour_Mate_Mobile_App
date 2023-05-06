@@ -1,21 +1,14 @@
 package com.example.tourmate.user
 
-import android.content.Intent
-import android.location.Location
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
-import android.util.Log
 import android.view.View
-import android.widget.Button
 import android.widget.EditText
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.eyetravel.R
-import com.example.eyetravel.admin.AddLocationsActivity
-import com.example.eyetravel.admin.AdminLocationAdapter
-import com.example.eyetravel.models.LocationModel
+import com.example.tourmate.models.LocationModel
 import com.google.firebase.database.*
 import java.util.*
 import kotlin.collections.ArrayList

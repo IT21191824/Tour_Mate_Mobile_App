@@ -9,10 +9,10 @@ import android.widget.ImageView
 import android.widget.RatingBar
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.eyetravel.R
-import com.example.eyetravel.admin.AdminGuideAdapter
-import com.example.eyetravel.admin.UpdateGuideActivity
-import com.example.eyetravel.models.GuideModel
+import com.example.tourmate.R
+import com.example.tourmate.admin.AdminGuideAdapter
+import com.example.tourmate.admin.UpdateGuideActivity
+import com.example.tourmate.models.GuideModel
 import com.google.firebase.database.FirebaseDatabase
 import com.squareup.picasso.Picasso
 

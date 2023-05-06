@@ -1,22 +1,17 @@
-package com.example.eyetravel.admin
+package com.example.tourmate.admin
 
 import android.content.Intent
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
-import android.view.View.OnClickListener
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import com.example.eyetravel.R
-import com.example.eyetravel.models.LocationModel
-import com.google.firebase.database.DatabaseReference
+import com.example.tourmate.R
+import com.example.tourmate.models.LocationModel
 import com.google.firebase.database.FirebaseDatabase
 import com.squareup.picasso.Picasso
-import java.net.URL
 
 class AdminLocationAdapter (private val locationsList: ArrayList<LocationModel>): RecyclerView.Adapter<AdminLocationAdapter.MyViewHolder>() {
 

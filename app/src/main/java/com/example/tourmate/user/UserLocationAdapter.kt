@@ -8,11 +8,8 @@ import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.eyetravel.R
-import com.example.eyetravel.admin.AdminLocationAdapter
-import com.example.eyetravel.admin.UpdateLocationActivity
-import com.example.eyetravel.models.LocationModel
-import com.google.firebase.database.FirebaseDatabase
+import com.example.tourmate.R
+import com.example.tourmate.models.LocationModel
 import com.squareup.picasso.Picasso
 
 class UserLocationAdapter (private var locationsList: ArrayList<LocationModel>): RecyclerView.Adapter<UserLocationAdapter.MyViewHolder>() {

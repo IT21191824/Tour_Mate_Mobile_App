@@ -4,10 +4,8 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import com.example.eyetravel.admin.AdminActivity
-import com.example.eyetravel.reglog.LoginActivity
-import com.example.eyetravel.reglog.RegisterActivity
-import com.example.eyetravel.user.UserActivity
+import com.example.tourmate.reglog.LoginActivity
+import com.example.tourmate.reglog.RegisterActivity
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,10 +1,10 @@
-package com.example.eyetravel.admin
+package com.example.tourmate.admin
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import com.example.eyetravel.R
+import com.example.tourmate.R
 
 class AdminActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

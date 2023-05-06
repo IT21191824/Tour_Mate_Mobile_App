@@ -3,14 +3,12 @@ package com.example.tourmate.reglog
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
-import com.example.eyetravel.R
-import com.example.eyetravel.admin.AdminActivity
-import com.example.eyetravel.models.UserModel
-import com.example.eyetravel.user.UserActivity
+import com.example.tourmate.admin.AdminActivity
+import com.example.tourmate.models.UserModel
+import com.example.tourmate.user.UserActivity
 import com.google.firebase.database.*
 
 class LoginActivity : AppCompatActivity() {

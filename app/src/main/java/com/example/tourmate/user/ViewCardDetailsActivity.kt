@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.text.Editable
 import android.widget.Button
 import android.widget.TextView
-import com.example.eyetravel.R
+import com.example.tourmate.R
 
 class ViewCardDetailsActivity : AppCompatActivity() {
     private lateinit var etCardNumber: TextView

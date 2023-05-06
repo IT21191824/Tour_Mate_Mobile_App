@@ -6,8 +6,8 @@ import android.os.Bundle
 import android.text.Editable
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
-import com.example.eyetravel.R
-import com.example.eyetravel.models.GuideModel
+import com.example.tourmate.R
+import com.example.tourmate.models.GuideModel
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 import com.squareup.picasso.Picasso

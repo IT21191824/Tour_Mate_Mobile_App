@@ -3,15 +3,8 @@ package com.example.tourmate.user
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
-import androidx.fragment.app.Fragment
-import com.example.eyetravel.R
-import com.example.eyetravel.admin.AdminGuidesActivity
-import com.example.eyetravel.admin.AdminLocationsActivity
-import com.example.eyetravel.admin.AdminProfileActivity
-import com.example.eyetravel.databinding.ActivityMainBinding
-import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.example.tourmate.R
 
 class UserActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

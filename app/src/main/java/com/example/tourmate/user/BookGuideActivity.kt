@@ -7,8 +7,8 @@ import android.text.Editable
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
-import com.example.eyetravel.R
-import com.example.eyetravel.models.PaymentModel
+import com.example.tourmate.R
+import com.example.tourmate.models.PaymentModel
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 
