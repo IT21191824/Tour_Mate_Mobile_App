@@ -1,4 +1,4 @@
-package com.example.eyetravel
+package com.example.tourmate
 
 import org.junit.Test
 
